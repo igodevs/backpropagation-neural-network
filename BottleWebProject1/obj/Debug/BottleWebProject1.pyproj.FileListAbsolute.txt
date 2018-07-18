@@ -1,0 +1,4 @@
+C:\Users\igor\source\repos\BottleWebProject1\BottleWebProject1\obj\Debug\BottleWebProject1.pyproj.CoreCompileInputs.cache
+C:\Users\igor\source\repos\BottleWebProject1\BottleWebProject1\BottleWebProject1\obj\Debug\BottleWebProject1.pyproj.CoreCompileInputs.cache
+F:\Win\repos\BottleWebProject1\BottleWebProject1\BottleWebProject1\obj\Debug\BottleWebProject1.pyproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\neural-network\BottleWebProject1\obj\Debug\BottleWebProject1.pyproj.CoreCompileInputs.cache
